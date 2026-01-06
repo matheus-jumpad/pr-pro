@@ -1,0 +1,8 @@
+{
+  "name": "PR Validator Pro",
+  "description": "A high-performance Pull Request validation and monitoring dashboard with AI-powered code analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
